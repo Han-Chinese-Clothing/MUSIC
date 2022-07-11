@@ -1,0 +1,44 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "493507",
+      "name": "主题",
+      "font_class": "zhuti",
+      "unicode": "e7aa",
+      "unicode_decimal": 59306
+    },
+    {
+      "icon_id": "1488894",
+      "name": "唱片",
+      "font_class": "changpian",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "3868258",
+      "name": "场景管理",
+      "font_class": "changjingguanli",
+      "unicode": "eb61",
+      "unicode_decimal": 60257
+    },
+    {
+      "icon_id": "9828823",
+      "name": "语言切换",
+      "font_class": "ziyuan",
+      "unicode": "e620",
+      "unicode_decimal": 58912
+    },
+    {
+      "icon_id": "14720954",
+      "name": "情感  感情",
+      "font_class": "qingganganqing",
+      "unicode": "e628",
+      "unicode_decimal": 58920
+    }
+  ]
+}
